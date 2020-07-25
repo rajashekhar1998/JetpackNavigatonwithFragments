@@ -7,4 +7,4 @@ Concepts covered:
   4.Uses navigation object to navigate from one fragment to other
   5.Navigation Controllers and OnClickListeners
   
-overall UX can be improved by adding SafeArgs and PopUpTo & PopUpToInclusive
+Overall UX can be improved by adding SafeArgs and PopUpTo & PopUpToInclusive
